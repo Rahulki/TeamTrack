@@ -1,21 +1,21 @@
 # Employee Management System with GraphQL API, Apollo Server, and React
 
 ## Technology Stack
-- ![JavaScript](path/to/javascript-logo.png) JavaScript
-- ![React](path/to/react-logo.png) React
-- ![React Router](path/to/react-router-logo.png) React Router
-- ![Nodemon](path/to/nodemon-logo.png) Nodemon
-- ![React Hook Form](path/to/react-hook-form-logo.png) React Hook Form
-- ![Context-API](path/to/context-api-logo.png) Context-API
-- ![MongoDB](path/to/mongodb-logo.png) MongoDB
-- ![Express.js](path/to/express-logo.png) Express.js
-- ![NodeJS](path/to/nodejs-logo.png) NodeJS
-- ![Babel](path/to/babel-logo.png) Babel
-- ![Apollo-GraphQL](path/to/apollo-graphql-logo.png) Apollo-GraphQL
-- ![Webpack](path/to/webpack-logo.png) Webpack
-- ![JWT](path/to/jwt-logo.png) JWT
-- ![MUI](path/to/mui-logo.png) MUI
-- ![Styled Components](path/to/styled-components-logo.png) Styled Components
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+- ![React Router](https://reactrouter.com/favicon-light.png) React Router
+- ![Nodemon](https://avatars.githubusercontent.com/u/15285783?s=200&v=4) Nodemon
+- ![React Hook Form](https://react-hook-form.com/images/logo.svg) React Hook Form
+- ![Context-API](https://reactjs.org/logo-og.png) Context-API
+- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+- ![Express.js](https://img.icons8.com/ios/50/000000/express-js.png) Express.js
+- ![NodeJS](https://img.icons8.com/color/48/000000/nodejs.png) NodeJS
+- ![Babel](https://img.icons8.com/color/48/000000/babel.png) Babel
+- ![Apollo-GraphQL](https://www.apollographql.com/apollo-home/assets/logos/logo-shadow.svg) Apollo-GraphQL
+- ![Webpack](https://img.icons8.com/color/48/000000/webpack.png) Webpack
+- ![JWT](https://jwt.io/img/pic_logo.svg) JWT
+- ![MUI](https://img.icons8.com/color/48/000000/material-ui.png) MUI
+- ![Styled Components](https://styled-components.com/logo.png) Styled Components
 
 ## Prerequisites
 Ensure you have the following installed on your local machine:
