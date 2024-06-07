@@ -1,21 +1,21 @@
 # Employee Management System with GraphQL API, Apollo Server, and React
 
 ## Technology Stack
-- <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/> JavaScript
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="48" height="48"/> React
-- <img src="https://reactrouter.com/favicon-light.png" alt="React Router" width="48" height="48"/> React Router
-- <img src="https://avatars.githubusercontent.com/u/15285783?s=200&v=4" alt="Nodemon" width="48" height="48"/> Nodemon
-- <img src="https://react-hook-form.com/images/logo.svg" alt="React Hook Form" width="48" height="48"/> React Hook Form
-- <img src="https://reactjs.org/logo-og.png" alt="Context-API" width="48" height="48"/> Context-API
-- <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="48" height="48"/> MongoDB
-- <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js" width="48" height="48"/> Express.js
-- <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="NodeJS" width="48" height="48"/> NodeJS
-- <img src="https://img.icons8.com/color/48/000000/babel.png" alt="Babel" width="48" height="48"/> Babel
-- <img src="https://www.apollographql.com/apollo-home/assets/logos/logo-shadow.svg" alt="Apollo-GraphQL" width="48" height="48"/> Apollo-GraphQL
-- <img src="https://img.icons8.com/color/48/000000/webpack.png" alt="Webpack" width="48" height="48"/> Webpack
-- <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="48" height="48"/> JWT
-- <img src="https://img.icons8.com/color/48/000000/material-ui.png" alt="MUI" width="48" height="48"/> MUI
-- <img src="https://styled-components.com/logo.png" alt="Styled Components" width="48" height="48"/> Styled Components
+- JavaScript
+- React
+- React Router
+- Nodemon
+- React Hook Form
+- Context-API
+- MongoDB
+- Express.js
+- NodeJS
+- Babel
+- Apollo-GraphQL
+- Webpack
+- JWT
+- MUI
+- Styled Components
 
 ## Prerequisites
 Ensure you have the following installed on your local machine:
