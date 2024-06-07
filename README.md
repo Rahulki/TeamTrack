@@ -1,21 +1,21 @@
 # Employee Management System with GraphQL API, Apollo Server, and React
 
 ## Technology Stack
-- JavaScript
-- React
-- React Router
-- Nodemon
-- React Hook Form
-- Context-API
-- MongoDB
-- Express.js
-- NodeJS
-- Babel
-- Apollo-GraphQL
-- Webpack
-- JWT
-- MUI
-- Styled Components
+- ![JavaScript](path/to/javascript-logo.png) JavaScript
+- ![React](path/to/react-logo.png) React
+- ![React Router](path/to/react-router-logo.png) React Router
+- ![Nodemon](path/to/nodemon-logo.png) Nodemon
+- ![React Hook Form](path/to/react-hook-form-logo.png) React Hook Form
+- ![Context-API](path/to/context-api-logo.png) Context-API
+- ![MongoDB](path/to/mongodb-logo.png) MongoDB
+- ![Express.js](path/to/express-logo.png) Express.js
+- ![NodeJS](path/to/nodejs-logo.png) NodeJS
+- ![Babel](path/to/babel-logo.png) Babel
+- ![Apollo-GraphQL](path/to/apollo-graphql-logo.png) Apollo-GraphQL
+- ![Webpack](path/to/webpack-logo.png) Webpack
+- ![JWT](path/to/jwt-logo.png) JWT
+- ![MUI](path/to/mui-logo.png) MUI
+- ![Styled Components](path/to/styled-components-logo.png) Styled Components
 
 ## Prerequisites
 Ensure you have the following installed on your local machine:
