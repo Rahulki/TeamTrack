@@ -78,6 +78,10 @@ Ensure you have the following installed on your local machine:
     ```
 6. Open your browser and visit `http://localhost:8000` to explore the Employee Management System frontend.
 
+## Team Members
+1. Drashty Patel
+2. Bhuvneshvari Shivasagaran
+
 ## Contributing
 If you'd like to contribute to the project, please follow these steps:
 1. Fork the repository.
